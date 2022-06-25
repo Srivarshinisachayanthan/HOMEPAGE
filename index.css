@@ -34,6 +34,12 @@
   color: red;
 }
 
+.Home .logoutbtn a {
+  width: 100%;
+  text-decoration: none;
+  color: red;
+}
+
 .Home .checkwheather {
   width: 300px;
   padding: 10px;
